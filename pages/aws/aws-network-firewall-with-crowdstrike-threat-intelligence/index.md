@@ -6,7 +6,7 @@ permalink: /aws/aws-network-firewall-with-crowdstrike-threat-intelligence/
 sidenav: aws-integrations-menu
 subnav:
   - text: About the Integration
-    href: '/aws/aws-network-firewall-with-crowdstrike-threat-intelligence/about/'
+    href: '#about-the-integration'
   - text: How to Deploy
     href: '#how-to-deploy'
   - text: Running a Demo
