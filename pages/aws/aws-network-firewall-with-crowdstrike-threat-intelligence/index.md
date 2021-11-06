@@ -55,7 +55,7 @@ Please note the following when running the demo.
 ## Demo Description
 The diagram below shows the infrastructure deployed by the cloudformation template and the flows involved.  The demo will allow you to evaluate the two integration scenarios discussed in the [overview](overview.md) 
 
-![](../../../assets/img/aws-network-firewall/aws-network-firewall/demo-infra.png)
+![](../../assets/img/aws-network-firewall/aws-network-firewall/demo-infra.png)
 
 The Cloudformation template will setup the following in a new VPC 
 
