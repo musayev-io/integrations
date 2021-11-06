@@ -16,7 +16,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
-        working-directory: ./docs
+        working-directory: ./
     - name: Cache gems
       uses: actions/cache@v2
       with:
