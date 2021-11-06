@@ -12,7 +12,7 @@
       "name": "CRT",
       "html_url": "https://github.com/CrowdStrike/CRT",
       "forks_count": 93,
-      "stargazers_count": 477,
+      "stargazers_count": 480,
       "description": "Contact: CRT@crowdstrike.com",
       "homepage": ""
     },
@@ -27,7 +27,7 @@
     {
       "name": "Cloud-AWS",
       "html_url": "https://github.com/CrowdStrike/Cloud-AWS",
-      "forks_count": 23,
+      "forks_count": 24,
       "stargazers_count": 31,
       "description": "A collection of projects supporting AWS Integration",
       "homepage": ""
@@ -35,7 +35,7 @@
     {
       "name": "Cloud-Azure",
       "html_url": "https://github.com/CrowdStrike/Cloud-Azure",
-      "forks_count": 6,
+      "forks_count": 8,
       "stargazers_count": 8,
       "description": "Discover for Cloud and Containers Azure",
       "homepage": ""
@@ -83,7 +83,7 @@
     {
       "name": "Dockerfiles",
       "html_url": "https://github.com/CrowdStrike/Dockerfiles",
-      "forks_count": 17,
+      "forks_count": 18,
       "stargazers_count": 20,
       "description": "Automation to help create container images pre-loaded with the CrowdStrike Falcon sensor.",
       "homepage": ""
@@ -99,8 +99,8 @@
     {
       "name": "Forensics",
       "html_url": "https://github.com/CrowdStrike/Forensics",
-      "forks_count": 76,
-      "stargazers_count": 296,
+      "forks_count": 77,
+      "stargazers_count": 297,
       "description": "Scripts and code referenced in CrowdStrike blog posts",
       "homepage": ""
     },
@@ -124,7 +124,7 @@
       "name": "Tortilla",
       "html_url": "https://github.com/CrowdStrike/Tortilla",
       "forks_count": 49,
-      "stargazers_count": 252,
+      "stargazers_count": 253,
       "description": "",
       "homepage": ""
     },
@@ -139,7 +139,7 @@
     {
       "name": "ansible_collection_falcon",
       "html_url": "https://github.com/CrowdStrike/ansible_collection_falcon",
-      "forks_count": 20,
+      "forks_count": 23,
       "stargazers_count": 20,
       "description": "Install and configure CrowdStrike's Falcon sensor via Ansible.",
       "homepage": "https://galaxy.ansible.com/CrowdStrike"
@@ -172,7 +172,7 @@
       "name": "automactc",
       "html_url": "https://github.com/CrowdStrike/automactc",
       "forks_count": 57,
-      "stargazers_count": 355,
+      "stargazers_count": 354,
       "description": "AutoMacTC: Automated Mac Forensic Triage Collector",
       "homepage": ""
     },
@@ -332,7 +332,7 @@
       "name": "easyrulesgo",
       "html_url": "https://github.com/CrowdStrike/easyrulesgo",
       "forks_count": 4,
-      "stargazers_count": 40,
+      "stargazers_count": 41,
       "description": "A port of Easy Rules in Go",
       "homepage": ""
     },
@@ -524,7 +524,7 @@
       "name": "falcon-helm",
       "html_url": "https://github.com/CrowdStrike/falcon-helm",
       "forks_count": 15,
-      "stargazers_count": 11,
+      "stargazers_count": 12,
       "description": "Helm operator and charts for running CrowdStrike Falcon with Kubernetes",
       "homepage": "https://artifacthub.io/packages/helm/falcon-helm/falcon-sensor"
     },
@@ -564,7 +564,7 @@
       "name": "falconpy",
       "html_url": "https://github.com/CrowdStrike/falconpy",
       "forks_count": 29,
-      "stargazers_count": 70,
+      "stargazers_count": 71,
       "description": "The CrowdStrike Falcon SDK for Python 3",
       "homepage": "https://www.falconpy.io"
     },
@@ -804,7 +804,7 @@
       "name": "psfalcon",
       "html_url": "https://github.com/CrowdStrike/psfalcon",
       "forks_count": 18,
-      "stargazers_count": 99,
+      "stargazers_count": 102,
       "description": "PowerShell for CrowdStrike's OAuth2 APIs",
       "homepage": ""
     },
@@ -916,7 +916,7 @@
       "name": "travel-laptop",
       "html_url": "https://github.com/CrowdStrike/travel-laptop",
       "forks_count": 23,
-      "stargazers_count": 212,
+      "stargazers_count": 213,
       "description": "Auxiliary documentation and scripts around \"A Reasonably Safe Travel Burner Laptop\"",
       "homepage": ""
     },
