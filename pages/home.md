@@ -7,23 +7,16 @@ layout: home
 hero:
   image: assets/img/crwd-banner-01.png
   callout:
-    alt: "Featured Project:"
-    text: gofalcon
+    alt: "Featured Integration:"
+    text: something cool
   button:
-    href: https://github.com/CrowdStrike/gofalcon
-    text: VIEW REPO
-  link:
-    text: gofalcon's Homepage
-    href: https://github.com/CrowdStrike/gofalcon
-  content: Golang-based SDK to CrowdStrike's Falcon APIs.
+    href: https://github.com/CrowdStrike/somethingcool
+    text: LEARN MORE
+  content: Really cool integration to highlight.
 
-tagline: CrowdStrike Contributed Open Source Software
+tagline: CrowdStrike Maintained Integrations
 intro: |
-  Welcome to CrowdStrike's Open Source Software site! The
-  projects listed below were developed by CrowdStrike, or
-  CrowdStrike contributed to the development of the project.
-  The code is available for public use, and we encourage you
-  to check it out!
+  Authored by CrowdStrike Solution Architecture, these integrations utilize
+  API-to-API capabilities to enrich both the CrowdStrike platform and partner
+  applications.
 ---
-
-{% include project-list.html %}
