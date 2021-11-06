@@ -20,12 +20,12 @@ jobs:
     - name: Cache gems
       uses: actions/cache@v2
       with:
-        path: ./docs/vendor/bundle
+        path: ./vendor/bundle
         key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: ${{ runner.os }}-gem
     - name: Test site build
       run: |
-        cd ./docs
+        cd ./
         ruby --version
         gem install bundler
         bundle config path ./vendor/bundle
