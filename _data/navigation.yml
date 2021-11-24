@@ -19,44 +19,20 @@ primary:
     links:
       - text: Amazon Web Services (AWS)
         href: /aws/
-      - text: Google Chronicle
+      - text: Google
         href: coming-soon.html
-      - text: IBM QRadar
-        href: /ibm-qradar/
-      - text: IBM Resilient
-        href: /ibm-resilient/
-      - text: Microsoft Azure Sentinel
-        href: /microsoft-azure-sentinel/
-      - text: Rancher K3S
-        href: /rancher-k3s/
-      - text: ServiceNow Detections App
-        href: /servicenow-detections-app/
-      - text: ServiceNow Falcon Identity Protection
-        href: /servicenow-falcon-identity-protection/
-      - text: ServiceNow Falcon X (Indicators)
-        href: /servicenow-falcon-x-indicators/
-      - text: ServiceNow Service Graph Connector for CrowdStrike
-        href: /servicenow-service-graph-connector-for-crowdstrike/
-      - text: ServiceNow Vulnerability Response Application
-        href: /servicenow-vulnerability-response-application/
-      - text: Splunk CrowdStrike App
-        href: /splunk-crowdstrike-app/
-      - text: Splunk Devices Technical Add-On
-        href: /splunk-devices-technical-add-on/
-      - text: Splunk Events Streams Technical Add-On
-        href: /splunk-events-streams-technical-add-on/
-      - text: Splunk Falcon Data Replicator (FRD) Technical Add-On
-        href: /splunk-falcon-data-replicator-technical-add-on/
-      - text: Splunk Intel Indicators Technical Add-On
-        href: /splunk-intel-indicators-technical-add-on/
-      - text: Splunk Phantom
-        href: /splunk-phantom/
-      - text: ZScaler Private Access Integration - ZTA
-        href: zscaler-private-access-integration-zta
-      - text: ZScaler Threat Intelligence Integration
-        href: zscaler-threat-intelligence-integration/
-      - text: ZScaler ZIA Integration
-        href: /zscaler-zia-integration/
+      - text: IBM
+        href: coming-soon.html
+      - text: Microsoft Azure
+        href: coming-soon.html
+      - text: Rancher 
+        href: coming-soon.html
+      - text: ServiceNow
+        href: coming-soon.html
+      - text: Splunk
+        href: coming-soon.html
+      - text: ZScaler
+        href: coming-soon.html
 
 #      - text: Demo link C
 #        href: /two/c/
@@ -92,9 +68,6 @@ aws-integrations-menu:
     href: /aws/aws-security-hub/
   - text: AWS Network Firewall with CrowdStrike Threat Intelligence
     href: /aws/aws-network-firewall-with-crowdstrike-threat-intelligence/
-    links:
-      - text: About
-        href: /aws/aws-network-firewall-with-crowdstrike-threat-intelligence/about/
   - text: AWS PrivateLink
     href: /aws/aws-private-link/
   - text: AWS S3 as Recipient of Falcon Data Replicator

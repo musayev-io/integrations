@@ -12,12 +12,12 @@ subnav:
   - text: Running a Demo
     href: '#running-a-demo'
 ---
-Joint customers of AWS and CrowdStrike can gain the benefits of CrowdStrike's use
-  of sophisticated signatureless artificial intelligence/machine learning and indicators
-  of attack (IOA) to alert on connections to and from suspicious domains.
+Joint customers of AWS and CrowdStrike can gain the benefits of CrowdStrike's use of sophisticated
+signatureless artificial intelligence/machine learning and indicators
+of attack (IOA) to alert on connections to and from suspicious domains.
 
 By integrating CrowdStrike Threat Intelligence with AWS Network Firewall, joint
-  customers can enhance their cloud network security capabilities using native services.
+customers can enhance their cloud network security capabilities using native services.
 
 ## About the Integration
 For security and compliance purposes, customers often have to control ingress and egress traffic related to Amazon EC2 instances and containers.  Previously, in order to achieve domain filtering, customers would have used a combination of NAT gateways and Squid or third party firewalls.  Stateful TCP/IP and UDP inspection was performed using Security Groups.   AWS Network Firewall extends the ability to monitor and control ingress and egress network traffic with its integration with AWS Firewall Manager and its ability to scale automatically.   
