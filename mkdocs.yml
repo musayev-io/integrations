@@ -1,0 +1,77 @@
+site_name: CrowdStrike Integrations
+repo_url: https://github.com/crowdstrike/integrations
+edit_uri: edit/main/docs/
+
+theme:
+  logo: assets/img/CS_Logos_2020_FullWhite.png
+  favicon: assets/img/CS_Logos_2020_FullRed.png
+  name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs.sticky
+    - toc.integrate
+    - toc.follow
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - toc:
+      permalink: true
+
+# NOTE: The order in plugins does matter! Make sure to use `mkdocs serve`
+#       when doing anything with plugins to verify all plugins work in
+#       the order they are specified.
+plugins:
+  - search
+  - awesome-pages
+  - tags
+  - macros
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/crowdstrike
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/crowdstrike
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/crowdstrike
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/crowdstrike
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCsRdY9CtEVWTNO4ulwfzqVA
+
+extra_css:
+  - stylesheets/extra.css
