@@ -10,7 +10,7 @@ hide:
 
 Authored by CrowdStrike Solution Architecture, these integrations utilize API-to-API capabilities to enrich both the CrowdStrike platform and partner applications.
 
-## Cloud Service Providers
+## Cloud
 
 <div class="grid-card">
   <a class="grid-item" href="integrations/aws">
@@ -22,11 +22,6 @@ Authored by CrowdStrike Solution Architecture, these integrations utilize API-to
   <a class="grid-item" href="integrations/microsoft">
       <img src="assets/img/msft.png">
   </a>
-</div>
-
-## Hybrid Cloud Vendors
-
-<div class="grid-card">
   <a class="grid-item" href="integrations/redhat">
       <img src="assets/img/redhat.png">
   </a>
